@@ -1,1 +1,6 @@
 tkinterdnd2>=0.4.0
+faster-whisper>=1.0.3
+torch>=2.2.0
+pyannote.audio>=3.3.0
+transformers>=4.41.0
+accelerate>=0.30.0
